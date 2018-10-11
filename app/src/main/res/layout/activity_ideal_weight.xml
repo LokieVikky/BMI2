@@ -9,6 +9,7 @@
 <android.support.v7.widget.RecyclerView
     android:id="@+id/horiCards"
     android:layout_width="match_parent"
+    android:scrollbars="horizontal"
     android:layout_height="wrap_content">
 
 
